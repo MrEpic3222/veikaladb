@@ -1,5 +1,8 @@
 # veikaladb
 db
+
+
+
 import sqlite3
 
 
